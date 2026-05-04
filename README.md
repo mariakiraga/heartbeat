@@ -69,3 +69,10 @@ python bridge.py
 python ui.py
 ```
 - The application will launch, displaying the real-time heartbeat visualisation and the breathing technique interface.
+
+---
+
+<img width="966" height="594" alt="viz" src="https://github.com/user-attachments/assets/0371a6c8-b810-4e75-9249-3032ff9f0695" />
+
+
+
